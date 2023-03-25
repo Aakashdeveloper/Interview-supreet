@@ -1,0 +1,48 @@
+Flow of angular
+Basic building block(Component,Services,Pipes,Modules,Routing)
+
+> Component
+Transfer data
+(Parent to child vice-versa)
+(Non nested Component)
+Binding
+LifeCycle Hooks
+
+> Modules
+(Shared Modules)
+
+> Routing
+(Routing Gaurds, CanActivate, CaDeactivte )
+Lazyloading 
+
+> Rxjs
+(Observable
+multiple api call(mergemap, forkJoin)) > Share article
+rxjs operaters
+
+Performace
+> How to improve performace  > Share article
+
+> ChangeDetection
+(onPush, default)
+
+> Microfront ends
+
+> How to make your module available to multiple application
+
+Nodejs
+Express
+RestApi (Swagger)
+Mongodb Basic > Need to done
+Postgres 
+JWT
+SSO(single sign on)
+
+Deployment
+Jenkins (CI/CD) > Need to done 
+Nginx > Need to done 
+Docker
+Cloud > AWS 
+lambda (microservices)
+
+https://github.com/Aakashdeveloper/Angular-Interview-question
